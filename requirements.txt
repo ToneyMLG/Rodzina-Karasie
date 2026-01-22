@@ -7,6 +7,5 @@ cryptography
 python-dotenv
 streamlit
 duckduckgo-search
-docx
 langchain_text_splitters
 python-docx
