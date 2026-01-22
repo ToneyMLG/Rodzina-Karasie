@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-openai
+langchain-chroma
+pdfplumber
+cryptography
+python-dotenv
+streamlit
+duckduckgo-search
+docx
+langchain_text_splitters
